@@ -1,0 +1,49 @@
+Begin..................End
+
+1. subroutine.
+	pass by value.
+	pass by reference.
+	pass by reference and return. 
+	pass by value and return. 
+	
+	exit in subroutine.
+	continuous in subroutine.
+	check statement.
+	data vs static  --> check this.
+	local keyword
+	using tables
+	using field symbol , work area
+	
+	call subroutine in another program ( part 2 ).
+
+
+
+2. Database table operations
+
+		select and endselect
+		single
+		and operator
+		or operator
+		single field as target
+		aliases 
+		distinct
+		restrict number of records
+		bypassing buffer
+		between
+		like operator
+		in operator
+		null and not null
+		negative condition --> not
+		group by
+		having clause
+		order by
+
+
+		subqueries --> query inside another query.
+
+		
+		
+
+
+	
+	
