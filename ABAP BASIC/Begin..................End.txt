@@ -41,6 +41,12 @@ Begin..................End
 
 		subqueries --> query inside another query.
 
+3. Substring
+
+4. OO ALV
+		docking container
+		
+
 		
 		
 

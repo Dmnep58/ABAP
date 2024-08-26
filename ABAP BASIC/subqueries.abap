@@ -94,6 +94,11 @@ SELECT  planetype seatsmax
 
     WRITE: / plane, seats.
 
+    if wa is not initial.
+    elseif wa is initial.
+    else.
+    endif.
+
 ENDSELECT.
 
 
